@@ -7,11 +7,11 @@ http://at-bristol.org.uk
 Contact: seamus.foley@at-bristol.org.uk
 
 Developed by Zubr VR Ltd.
-9 Marsh Street 
+9 Marsh Street
 Bristol
 BS1 4AA
 
-http://www.zubrvr.com
+http://www.zubrvr.com 
 jack@zubrvr.com	
 +447534933475
 
